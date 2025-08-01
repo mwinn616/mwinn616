@@ -1,5 +1,4 @@
 Hi there! I'm Mark, a Fayetteville, AR based software engineer.
-I’m interested in clean design, prioritizing a great UX experience.
 
 ## Projects
 
