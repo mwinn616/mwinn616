@@ -1,11 +1,15 @@
-Hi there! I'm Mark, a Fayetteville, AR based software engineer.
+Hi, I'm Mark — a web designer and automation builder based in Fayetteville, AR.I build websites, integrations, and internal tools for small businesses through my consultancy Mark Winn Designs.
 
-## Projects
+## Recent Projects
 
-I recently built a [running pace calculator](https://mwinn616.github.io/run-calculator/) to quickly figure out the needed pace to run a specific race distance or time.
+Studio Lead Engine — An internal outbound system that scrapes local business leads, enriches them with Claude API-generated outreach hooks, and routes contacts into HubSpot via Zapier. Includes a Next.js dashboard deployed on Vercel.
 
+Stride — A free mobile run-training app with pace calculation, race time prediction, training pace recommendations, and session history. Built with Claude Code.
 
-Most recently, I've been working with HTML, CSS, and JavaScript.
+markwinndesigns.com — My personal marketing site, migrated from Webflow to a custom build using Claude Code.
+
+## Stack
+HTML/CSS · JavaScript · Node.js · Webflow · Shopify · Zapier · Claude API · Claude Code · REST APIs
 
 ## Contact
-📫 If you'd like to connect, feel free to reach out to me at at winn.mark.a@gmail.com 
+📫 winn.mark.a@gmail.com · LinkedIn · markwinndesigns.com
