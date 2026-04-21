@@ -6,7 +6,7 @@ I build websites, integrations, and internal tools for small businesses through 
 
 **[Studio Lead Engine](https://github.com/mwinn616/studio-lead-engine)** — An internal outbound system that scrapes local business leads, enriches them with Claude API-generated outreach hooks, and routes contacts into HubSpot via Zapier. Includes a Next.js dashboard deployed on Vercel.
 
-**[Stride](https://runyourstride.com)** — A free mobile run-training app with pace calculation, race time prediction, training pace recommendations, and session history. Built with Claude Code.
+**[Stride](https://runyourstride.com)** — A free running toolkit with pace calculation, race prediction, training zones, and run history. Marketing site live at runyourstride.com. Web app live at runyourstride.com/calculator. iOS app coming soon.
 
 **[markwinndesigns.com](https://markwinndesigns.com)** — My personal marketing site, migrated from Webflow to a custom build using Claude Code.
 
