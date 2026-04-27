@@ -2,6 +2,8 @@ Hi, I'm Mark — a web designer and automation builder based in Fayetteville, AR
 
 I build websites, integrations, and internal tools for small businesses through my consultancy [Mark Winn Designs](https://markwinndesigns.com).
 
+Currently expanding into data analytics — see [Walmart Analytics] ([walmart-analysis](https://github.com/mwinn616/walmart-analysis).
+
 ## Current Projects
 
 **[Studio Lead Engine](https://github.com/mwinn616/studio-lead-engine)** — An internal outbound system that scrapes local business leads, enriches them with Claude API-generated outreach hooks, and routes contacts into HubSpot via Zapier. Includes a Next.js dashboard deployed on Vercel.
