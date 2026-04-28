@@ -8,7 +8,7 @@ Expanding into data analytics — see [Walmart Analysis](https://github.com/mwin
 
 **[Walmart Analysis](https://github.com/mwinn616/walmart-analysis)** - Exploratory analysis of Walmart store sales data using Python, pandas, matplotlib, and SQL.
 
-**[Olist E-Commerce Analysis] (https://github.com/mwinn616/olist-ecommerce-analysis)**. — Analysis of 100k+ real e-commerce orders exploring revenue by product category, the impact of delivery time on customer satisfaction, and order volume growth trends. Built with Python, pandas, SQLite, and matplotlib.
+**[Olist E-Commerce Analysis](https://github.com/mwinn616/olist-ecommerce-analysis)**. — Analysis of 100k+ real e-commerce orders exploring revenue by product category, the impact of delivery time on customer satisfaction, and order volume growth trends. Built with Python, pandas, SQLite, and matplotlib.
 
 **[Studio Lead Engine](https://github.com/mwinn616/studio-lead-engine)** — An internal outbound system that scrapes local business leads, enriches them with Claude API-generated outreach hooks, and routes contacts into HubSpot via Zapier. Includes a Next.js dashboard deployed on Vercel.
 
