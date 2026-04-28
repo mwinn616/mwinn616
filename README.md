@@ -6,11 +6,11 @@ Currently expanding into data analytics — see [Walmart Analysis](https://githu
 
 ## Current Projects
 
+**[Walmart Analysis](https://github.com/mwinn616/walmart-analysis)** - Exploratory analysis of Walmart store sales data using Python, pandas, matplotlib, and SQL
+
 **[Studio Lead Engine](https://github.com/mwinn616/studio-lead-engine)** — An internal outbound system that scrapes local business leads, enriches them with Claude API-generated outreach hooks, and routes contacts into HubSpot via Zapier. Includes a Next.js dashboard deployed on Vercel.
 
-**[Run Your Stride](https://runyourstride.com)** — A free running toolkit with pace calculation, race prediction, training zones, and run history. Built with Claude Code. Live at runyourstride.com — web app at runyourstride.com/calculator. iOS app coming soon.
-
-**[markwinndesigns.com](https://markwinndesigns.com)** — My personal marketing site, migrated from Webflow to a custom build using Claude Code.
+**[Run Your Stride](https://runyourstride.com)** — A free running toolkit with pace calculation, race prediction, training zones, and run history. Built with Claude Code. Live in [Apple App Store](https://apps.apple.com/us/app/run-your-stride/id6763099712).
 
 ## Stack
 HTML/CSS · JavaScript · Node.js · Webflow · Shopify · Zapier · Claude API · Claude Code · REST APIs
