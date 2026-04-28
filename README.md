@@ -2,7 +2,7 @@ Hi, I'm Mark — a web designer and automation builder based in Fayetteville, AR
 
 I build websites, integrations, and internal tools for small businesses through my consultancy [Mark Winn Designs](https://markwinndesigns.com).
 
-Expanding into data analytics — see [Walmart Analysis](https://github.com/mwinn616/walmart-analysis) and [Olist Analysis] (https://github.com/mwinn616/olist-ecommerce-analysis).
+Expanding into data analytics — see [Walmart Analysis](https://github.com/mwinn616/walmart-analysis) and [Olist Analysis](https://github.com/mwinn616/olist-ecommerce-analysis).
 
 ## Current Projects
 
